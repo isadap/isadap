@@ -1,0 +1,85 @@
+
+body {
+    font-size: 67.5%;
+    font-family: Tahoma, Geneva, sans-serif;
+    background: white no-repeat fixed top center;
+    padding: 0;
+    margin: 0;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+}
+
+h1 {
+    color:  rgb(83, 67, 233);
+    font-size: 2.0em;
+    margin: 0.5em 0 0.5em 0;
+    padding: 0;
+}
+
+
+
+a, a:visited {
+    color:  rgb(83, 67, 233);
+}
+a:hover {
+    color:  rgb(116, 36, 170);
+}
+
+
+
+
+header {
+    padding: 2.5em 0 0.5em;
+    margin: 0 0 2.0em;
+    background:  #c7d8e7 center 0px;
+    border-top: lightgray 1px;
+    border-bottom: lightgray 1px;
+}
+
+header h1 {
+    font-family: "Times New Roman", Times, serif;
+    color: black;
+    font-size: 3em;
+    text-align: center;
+    letter-spacing: -0.025em;
+    margin: 0;    
+    
+}
+
+
+#sidebar {
+    width: 238px;
+    float: left;
+    position: relative;
+    display: block;
+    background-color:  #c7d8e7;
+    margin: 1.5em 0 3.0em 1.5em;
+    padding: 1.7em 0.5em 2.0em 1.7em;
+    border-left: lightgray solid 1px;
+    border-right: lightgray solid 1px;
+   }
+
+  
+
+
+footer {
+    background-color: #c7d8e7;
+    height: 5px;
+    font-size: 1.2em;
+    color: black;
+    text-align: center;
+    padding: 1.5em 2.0em;
+    border-top: lightgray solid 1px;
+}
+
+
+footer a, footer a:visited {
+    color: rgb(83, 67, 233);
+    text-decoration: none;
+}
+footer a:hover {
+    color: rgb(116, 36, 170);
+    text-decoration: none;
+}
